@@ -1,0 +1,6 @@
+Autor 1: Guilherme Boaventura
+Autor 2: Davi Assunção Gomes
+Turma: 2L
+
+
+O fork é uma cópia independente de um repositório, usada quando queremos contribuir com projetos que não controlamos diretamente (como repositórios de terceiros). Um exemplo simples: você pode fazer fork de um projeto open-source no GitHub para adicionar uma melhoria e depois enviar um pull request. Já o clone copia o repositório para sua máquina local, enquanto o branch cria uma ramificação dentro do mesmo projeto para desenvolver algo novo sem afetar o código principal. O GitHub Flow é simples e ideal para deploys frequentes: usa a branch main e branches curtas para features. O Git Flow é mais robusto, adequado para projetos com releases formais, pois organiza melhor features, releases e hotfixes. O Trunk-Based Development é direto, focado em turmas pequenas e integração contínua com commits frequentes na branch principal. O Pull Request permite revisão de código antes de unir mudanças, sendo essencial para garantir qualidade e colaboração no time.

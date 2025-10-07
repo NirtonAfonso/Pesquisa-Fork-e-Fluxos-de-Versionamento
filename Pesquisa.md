@@ -1,0 +1,5 @@
+*Autor 1*:Kaio da Silva de Cerqueira 
+*Autor 2*:Talles Barbosa dos Santos
+*Turma°2L*
+
+O fork é uma cópia completa de um repositório feita no GitHub, usada quando se quer modificar um projeto de outra pessoa sem alterar o original — por exemplo, criar sua própria versão de um jogo open source. Já o clone é a cópia do repositório (original ou forkado) para o computador, permitindo editar o código localmente. O branch é uma ramificação dentro do mesmo repositório, usada para desenvolver novas funções sem afetar o código principal. O GitHub Flow é simples e ideal para deploys frequentes; o Git Flow organiza o trabalho em fases com branches específicos, bom para projetos com versões formais; e o Trunk-Based Development favorece integrações rápidas e constantes, indicado para equipes que atualizam o sistema diariamente.

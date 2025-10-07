@@ -1,1 +1,7 @@
-Coisas
+# Pesquisa — Fork e Fluxos de Versionamento
+
+**Autores:** João Pedro Macedo Eça Carvalho, Roberto Vinícius  
+**Turma:** 2ºL ano do Ensino Médio
+
+**Texto (5–8 linhas):**
+Fork é uma copia independente, que possibilita a alteração de forma livre, do repositorio original que pode ajudar a no projeto original por pull request, um exemplo seria em software de codigo aberto como o linux, que possui diversas versões feitas por fãs. Já o clone é um repositorio local que é uma parte do repositorio original, podendo ser modificado atraves de um commit remoto podendo modificar de forma direta o arquivo original. Branch é uma ramficação do repositorio usada para gerar novas funcionalidades em um repositorio, fundamental para a organização. Nos fluxos de trabalho: o GitHub Flow funciona de forma simples, cria-se uma branch, desenvolve, abre um pull request e faz merge na main, ótimo para equipes pequenas com deploys frequentes. O Git Flow utiliza múltiplas branches (main, develop, feature, release, hotfix), servindo bem em projetos grandes que precisam de versões formais, por exemplo um app que lança releases mensais. Já o Trunk-Based Development mantém o foco em uma única branch principal, com branches bem curtas que são integradas rapidamente, ideal para times ágeis que lançam novas funcionalidades todos os dias em produção.  Pull Request é uma forma de segerir mudanças em um codigo atraves d eum fork criado pelo usuario, é importante para gerir mundaças realizadas por pessoas que revisaram e observaram erros no código ou no texto existente.

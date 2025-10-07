@@ -59,3 +59,5 @@ Nesta atividade, você e sua dupla vão pesquisar o que é **fork** e comparar t
 
 **Texto (5–8 linhas):**  
 (Escreva aqui seu resumo em texto corrido, respondendo às quatro questões da atividade.)
+
+

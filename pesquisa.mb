@@ -1,0 +1,5 @@
+Fork é quando você cria uma cópia independente de um repositório, geralmente para propor mudanças sem afetar o projeto original.
+Um exemplo simples é quando você encontra um projeto legal no GitHub e quer adicionar uma funcionalidade: você faz um fork, altera no seu repositório e depois envia um Pull Request.
+Clone é baixar o repositório pra sua máquina, branch é criar uma linha paralela de desenvolvimento dentro do mesmo projeto, e fork é criar um novo repositório. GitHub Flow é simples e direto, ótimo pra deploys frequentes.
+Git Flow é mais estruturado, ideal pra projetos com versões formais. Trunk-Based é ágil, bom pra equipes pequenas que integram mudanças o tempo todo. 
+Pull Request é quando você pede pra suas alterações serem revisadas e integradas, ajudando a manter a qualidade e a colaboração no código.
